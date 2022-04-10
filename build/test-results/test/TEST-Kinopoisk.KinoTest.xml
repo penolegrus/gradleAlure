@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Kinopoisk.KinoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-02T17:45:17" hostname="MacBook-Pro.local" time="38.406">
+  <properties/>
+  <testcase name="shortTest()" classname="Kinopoisk.KinoTest" time="11.319"/>
+  <testcase name="checkMovieChain()" classname="Kinopoisk.KinoTest" time="8.166"/>
+  <testcase name="checkMovie()" classname="Kinopoisk.KinoTest" time="6.787"/>
+  <testcase name="bigChain()" classname="Kinopoisk.KinoTest" time="12.125"/>
+  <system-out><![CDATA[Бэтмен: Готэм в газовом свете (видео)
+Скуби-Ду и Бэтмен: Отважный и смелый
+Batman Ninja: Made in Japan
+Batman V Superman: League at War
+LEGO Супергерои DC: Флэш (видео)
+Batman the Rise of Red Hood
+Batman: Joker Escapes!
+Batman New World Justice
+Batman Alley
+Batman the Rise of Red Hood
+Юные титаны, вперед!
+East/West Batman
+LEGO Marvel Человек-Паук: Одержимый Веномом (ТВ)
+Spider-Man: The Web Series (сериал)
+Spider-Man: Identity
+Spider-Man Noir and the Man Made of Stone
+Spider-Man: The Ultimate Battle (Part 1) (ТВ)
+The Adventures of the Amazing Spider-Man (видео)
+Spider-Man: Come Back Home
+The Spider-Man (видео)
+Spider-Man loves Cineplexx
+Spider-Man: Syndrome
+Man-Spider
+Sony/Marvel Spider-Man Deal Explained
+Marvelous Tales of Spider-man
+Spiderman the Verse (мини-сериал)
+Матрица: Воскрешение
+Матрица: Перезагрузка
+Матрица: Революция
+Матрица времени
+Матрица (сериал)
+Сбой в матрице
+Матрица: Угроза (сериал)
+Матрица. Неверный номер (видео)
+Матрица. Бабочка
+Армитаж: Двойная матрица (видео)
+Ёлки 8
+Ёлки 2
+Ёлки последние
+Ёлки 3
+Ёлки 1914
+Ёлки новые
+Ёлки 5
+Ёлки лохматые
+Ёлки-палки!..
+Ёлки
+Наруто: Ураганные хроники (сериал)
+Наруто: Последний фильм
+Наруто
+Наруто 9: Путь ниндзя
+Наруто 7: Потерянная башня
+Наруто 4
+Наруто 5
+Наруто 6
+Наруто 8: Кровавая тюрьма
+Наруто 3: Грандиозный переполох
+]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 56240
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1648921521.095][WARNING]: This version of ChromeDriver has not been tested with Chrome version 99.
+апр 02, 2022 10:45:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+апр 02, 2022 10:45:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+апр 02, 2022 10:45:21 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 97
+Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 64542
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1648921530.523][WARNING]: This version of ChromeDriver has not been tested with Chrome version 99.
+апр 02, 2022 10:45:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+апр 02, 2022 10:45:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+апр 02, 2022 10:45:30 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 97
+Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 61746
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1648921538.526][WARNING]: This version of ChromeDriver has not been tested with Chrome version 99.
+апр 02, 2022 10:45:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+апр 02, 2022 10:45:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+апр 02, 2022 10:45:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 97
+Starting ChromeDriver 98.0.4758.102 (273bf7ac8c909cde36982d27f66f3c70846a3718-refs/branch-heads/4758@{#1151}) on port 56922
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1648921545.247][WARNING]: This version of ChromeDriver has not been tested with Chrome version 99.
+апр 02, 2022 10:45:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+апр 02, 2022 10:45:45 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+апр 02, 2022 10:45:45 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 97
+]]></system-err>
+</testsuite>
